@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+John Toomey (but I go by Jack)
+I am interested in Data Science because it is very powerful disciple that can has diverse applications in countless fields. I am also interested because of its traceable and verifiable nature - analytically it has the potential to be less subjective than former applied techniques. I also feel it has the power to provide robust solutions to complex questions that would be cumbersome and time consuming (in some cases seemingly impossible) to derive answers.
+I have taken introductory coursework in C# and python. In my current position I implement and leverage Geographic Information Systems for Utility and Facility Operations at Los Alamos National Laboratory. I primarily write scripts in python but occasionally and on previous assignments I compile "small" .net (no more than 2000 lines) code in C#/vb and have create some basic widgets for web apps in javascript as well.
+I am definitely a little weak when it comes to statistics. I have taken a statistics course (stat 251) in my  undergrad at NMSU but don't have any fond memories of it. I use what I would consider basic statistics at my job including averages, percentages, etc. with the only exception being standard deviations for ensuring GPS accuracies and for utility asset condition assessments.
+I have no previous experience with R but I think python may be my favorite language and usually take an interest in how anyone is using python anytime it is mentioned.
+Improving some web scraping techniques with Python and hopefully some awesome data crunching techniques in R and maybe learn about some of the usage of R in "spatial" analytics.
+Not at this time no.
